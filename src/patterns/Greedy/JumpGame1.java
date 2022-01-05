@@ -1,4 +1,4 @@
-package Arrays.Greedy;
+package patterns.Greedy;
 
 /**
  *  Given an array of non-negative integers,

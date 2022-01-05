@@ -1,4 +1,4 @@
-package Arrays.SlidingWindow;
+package patterns.SlidingWindow;
 
 /**
  *

@@ -1,4 +1,4 @@
-package Arrays.sorted;
+package patterns.sorted;
 
 import java.util.Arrays;
 

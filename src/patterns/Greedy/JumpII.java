@@ -1,4 +1,4 @@
-package Arrays.Greedy;
+package patterns.Greedy;
 
 public class JumpII {
 

@@ -1,4 +1,4 @@
-package Arrays.StringArthimeticsGradeSchoolFormula;
+package patterns.StringArthimeticsGradeSchoolFormula;
 
 import java.util.ArrayList;
 import java.util.List;
